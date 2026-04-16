@@ -15,7 +15,7 @@ import ujson as json
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 from cfonts import render
-from ProTo import DecodeWhisper_pb2
+import DecodeWhisper_pb2
 import MajorLoginRes_pb2
 import LoginData_pb2
 import MajorLoginReq_pb2
