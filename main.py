@@ -16,10 +16,10 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 from cfonts import render
 from ProTo import DecodeWhisper_pb2
-from ProTo import MajorLoginRes_pb2
-from ProTo import LoginData_pb2
-from ProTo import MajorLoginReq_pb2
-from ProTo import received_chat_pb2
+import MajorLoginRes_pb2
+import LoginData_pb2
+import MajorLoginReq_pb2
+import received_chat_pb2
 
 
 from flask import Flask, request, jsonify
