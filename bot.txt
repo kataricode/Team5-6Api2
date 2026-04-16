@@ -1,2 +1,2 @@
-uid=4702452257
-password=LUANORI-ER9MCNBGV-DEV
+uid=4385946076
+password=sigma_J3FQG2XSIK0
