@@ -42,7 +42,7 @@ chat_id = None
 uid = None
 XX = None
 packet_json = None
-region = "IND"
+region = "VN"
 TOKEN_EXPIRY = 6 * 60 * 60
 
 app = Flask(__name__)
